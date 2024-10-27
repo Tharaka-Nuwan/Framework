@@ -1,4 +1,4 @@
-public class ReversArray{
+public class ReversAray{
 	
 	public static void main(String arge[]){
 		
